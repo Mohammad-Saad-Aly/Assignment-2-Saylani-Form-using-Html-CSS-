@@ -1,0 +1,27 @@
+
+h3{
+    color: mediumorchid;
+    margin-top: -40px;
+}
+/* 
+div{
+    margin-left: 35%;
+    margin-top: 3%;
+} */
+
+#btn{
+    /* margin-left: 40%; */
+    justify-content: center;
+    
+}
+
+div{
+    background-color: deepskyblue;
+    
+}
+
+#a{
+    width: 60%;
+    margin-left: 19%;
+    padding: 15px;
+}
